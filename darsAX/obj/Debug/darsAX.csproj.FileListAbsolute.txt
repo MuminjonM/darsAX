@@ -1,0 +1,8 @@
+D:\VisualC++\darsAX\darsAX\bin\Debug\darsAX.exe.config
+D:\VisualC++\darsAX\darsAX\bin\Debug\darsAX.exe
+D:\VisualC++\darsAX\darsAX\bin\Debug\darsAX.pdb
+D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.csproj.AssemblyReference.cache
+D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.csproj.SuggestedBindingRedirects.cache
+D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.csproj.CoreCompileInputs.cache
+D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.exe
+D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.pdb

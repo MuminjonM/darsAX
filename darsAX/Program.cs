@@ -10,6 +10,18 @@ namespace darsAX
     {
         static void Main(string[] args)
         {
+            int a = 24, b = 36;
+
+            while(a!=b) {
+                if (a > b)
+                {
+                    a -= b;
+                }
+                else b -= a;
+            
+            }
+            Console.WriteLine("ekub=" + a);
+            Console.ReadKey();  
         }
     }
 }

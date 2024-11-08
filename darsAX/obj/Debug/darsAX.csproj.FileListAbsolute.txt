@@ -6,3 +6,11 @@ D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.csproj.SuggestedBindingRedirects.cac
 D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.csproj.CoreCompileInputs.cache
 D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.exe
 D:\VisualC++\darsAX\darsAX\obj\Debug\darsAX.pdb
+C:\Users\MSI\Desktop\person2\darsAX\darsAX\bin\Debug\darsAX.exe.config
+C:\Users\MSI\Desktop\person2\darsAX\darsAX\bin\Debug\darsAX.exe
+C:\Users\MSI\Desktop\person2\darsAX\darsAX\bin\Debug\darsAX.pdb
+C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.exe
+C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.pdb

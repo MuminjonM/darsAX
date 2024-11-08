@@ -10,9 +10,9 @@ namespace darsAX
     {
         static void Main(string[] args)
         {
-            int a = 30, b = 45;
+            int a = 56, b = 34;
 
-            
+            // o'zgartirildi
 
             Console.WriteLine("ekub=" + ekub(a,b));
             Console.WriteLine("ekuk=" + ekuk(a,b));

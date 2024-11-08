@@ -14,3 +14,10 @@ C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.csproj.SuggestedBind
 C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.csproj.CoreCompileInputs.cache
 C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.exe
 C:\Users\MSI\Desktop\person2\darsAX\darsAX\obj\Debug\darsAX.pdb
+D:\darsliklar\Bulutli_texnologiyalar\Git\darsAX\darsAX\bin\Debug\darsAX.exe.config
+D:\darsliklar\Bulutli_texnologiyalar\Git\darsAX\darsAX\bin\Debug\darsAX.exe
+D:\darsliklar\Bulutli_texnologiyalar\Git\darsAX\darsAX\bin\Debug\darsAX.pdb
+D:\darsliklar\Bulutli_texnologiyalar\Git\darsAX\darsAX\obj\Debug\darsAX.csproj.AssemblyReference.cache
+D:\darsliklar\Bulutli_texnologiyalar\Git\darsAX\darsAX\obj\Debug\darsAX.csproj.CoreCompileInputs.cache
+D:\darsliklar\Bulutli_texnologiyalar\Git\darsAX\darsAX\obj\Debug\darsAX.exe
+D:\darsliklar\Bulutli_texnologiyalar\Git\darsAX\darsAX\obj\Debug\darsAX.pdb

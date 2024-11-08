@@ -16,7 +16,9 @@ namespace darsAX
             int cd= ekub(d, c);
             int natija = ekub(ab, cd);
 
-            Console.WriteLine("ekub=" + natija);
+            Console.WriteLine("ekub=" + ekub(a,b));
+            Console.WriteLine("ekuk=" + ekuk(a,b));
+
             Console.ReadKey();  
         }
 
@@ -34,7 +36,10 @@ namespace darsAX
             return a;
         }
 
+        public static int ekuk (int a, int b) {
 
+            return (a*b)/ekub(a,b);
+        }
 
     }
 }
